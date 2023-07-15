@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.btn-danger {
+    background-color: red;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.btn-warning {
+    background-color: yellow;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    font-size: 16px;
+}
+
+.btn-success {
+    background-color: green;
+    padding: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#status {
+    margin-top: 10px;
+    font-size: 50px;
+    font-weight: bold;
+   
+}
+body{
+    background-color: aqua;
+}
